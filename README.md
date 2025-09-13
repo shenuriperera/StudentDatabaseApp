@@ -3,7 +3,7 @@ This is a Java project for managing a student database app. The project implemen
 - `Main.java` → Entry point
 - `CreateTable.java` → Creates a table in the database
 - `InsertDemo.java` → Inserts records
-- 'StudentInsert.java' → Adds student inputs to the table
+- `StudentInsert.java` → Adds student inputs to the table
 - `SelectDemo.java` → Selects and prints records
 - `UpdateDemo.java` → Updates records
 - `PrepareStatementDemo.java` → Uses PreparedStatements
